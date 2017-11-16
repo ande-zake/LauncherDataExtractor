@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application uri="http://localhost:8080/ANDE_WEBSITE/bridexpro/" launch="com.ande.bridex_pro.Main">
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 150;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+    <parameters>--myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <cacheDir>USERLIB/BRIDEX PRO</cacheDir>
+    <acceptDowngrade>false</acceptDowngrade>
+</Application>
